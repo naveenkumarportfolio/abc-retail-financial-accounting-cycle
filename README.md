@@ -103,6 +103,6 @@ It also gave me practical experience in using Excel to organise accounting infor
 
 ---
 
-**Prepared by:** Naveen Rajput
+**Prepared by:** Naveen Kumar
 
 **Tools:** Microsoft Excel | Financial Accounting
